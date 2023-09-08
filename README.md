@@ -27,13 +27,13 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tusharpamnani/GDSC-Backend-Task.git
+   git clone https://github.com/tusharpamnani/GDSC-Task.git
    ```
    
 2. Navigate to the project directory:
 
    ```bash
-   cd GDSC-Backend-Task
+   cd GDSC-Task
    ```
 3. Install the required dependencies:
 
