@@ -11,7 +11,7 @@ This repository contains a Weather App developed as a task for GDSC (Google Deve
 ## Repository
 
 - **Repository Type**: Git
-- **Repository URL**: [GDSC-Backend-Task](https://github.com/tusharpamnani/GDSC-Backend-Task.git)
+- **Repository URL**: [GDSC-Task](https://github.com/tusharpamnani/GDSC-Task.git)
 
 ## Table of Contents
 
