@@ -3,6 +3,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Languages](https://img.shields.io/badge/languages-JavaScript%20%7C%20Node.js%20%7C%20HTML%20%7C%20CSS-green.svg)
 
+## Preview
+
+![Preview](https://github.com/tusharpamnani/GDSC-Task/blob/main/assets/Screenshot%20(2).png)
 
 ## Description
 
