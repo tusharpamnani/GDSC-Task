@@ -5,7 +5,7 @@
 
 ## Preview
 
-![Preview](https://github.com/tusharpamnani/GDSC-Task/blob/main/assets/Screenshot%20(2).png)
+![Preview](https://github.com/tusharpamnani/GDSC-Task/blob/main/assets/Screenshot%20(4).png)
 
 ## Description
 
